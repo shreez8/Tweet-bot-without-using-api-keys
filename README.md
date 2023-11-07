@@ -18,18 +18,18 @@ Requiremnets
 Open CMD in Windows.
 
 Commands to install selenium ⬇️
- ''' 
+```
  pip install selenium 
- '''
+```
 
 To Run Script⬇️
- '''' 
+```
  python tweet_bot.py 
- '''
+```
 OR 
-'''
+```
 python3 tweet_bot.py
-'''
+```
 
 Enter Details asked. 
 Done✅
