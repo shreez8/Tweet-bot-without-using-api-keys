@@ -8,7 +8,7 @@ So,This bot can be used for Multi tweeting with multiple X/Twitter account
 Its is built by Using  
 Python + Selenium
 
-Requiremnets
+Requiremnets \n
  Chrome Driver ( Version @ 119.0.6045.106 )
  Python ( Verison @ 3.11.3 )
  Selenium ( Version @ 4.15.2 )
