@@ -38,17 +38,6 @@ for username, password in accounts:
 # Wait for a few seconds to load the Twitter homepage
     time.sleep(5)
 
-# Click on the "Tweet" button
-# svg_elements = driver.find_elements(By.TAG_NAME,"svg")
-
-# Loop through the list of SVG elements and click the desired one
-# for svg_element in svg_elements:
-#     if "r-4qtqp9 r-yyyyoo r-1472mwg r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-lrsllp" in svg_element.get_attribute("class"):
-#         svg_element.click()
-#         break  # If found, exit the loop
-
-# time.sleep(5)
-
 
     for tweets in tweet_text:
         tweet_box = driver.find_element(By.CSS_SELECTOR,'div[data-testid="tweetTextarea_0"]')
